@@ -22,15 +22,15 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "@aws-cdk/core": "1.67.0",
-    "@aws-cdk/aws-iam": "1.67.0",
-    "@aws-cdk/aws-sns": "1.67.0",
-    "@aws-cdk/aws-lambda": "1.67.0",
-    "@aws-cdk/aws-sns-subscriptions": "1.67.0",
-    "@aws-cdk/aws-events": "1.67.0",
-    "@aws-cdk/aws-events-targets": "1.67.0",
-    "@aws-cdk/aws-codecommit": "1.67.0",
-    "@aws-cdk/aws-secretsmanager": "1.67.0",
+    "@aws-cdk/core": "1.186.1",
+    "@aws-cdk/aws-iam": "1.186.1",
+    "@aws-cdk/aws-sns": "1.186.1",
+    "@aws-cdk/aws-lambda": "1.186.1",
+    "@aws-cdk/aws-sns-subscriptions": "1.186.1",
+    "@aws-cdk/aws-events": "1.186.1",
+    "@aws-cdk/aws-events-targets": "1.186.1",
+    "@aws-cdk/aws-codecommit": "1.186.1",
+    "@aws-cdk/aws-secretsmanager": "1.186.1",
     "source-map-support": "^0.5.16"
   }
 }
